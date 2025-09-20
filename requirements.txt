@@ -1,0 +1,6 @@
+# Requirements for FastAPI + LangGraph + Ollama agent
+fastapi
+pydantic
+langgraph
+ollama
+httpx
